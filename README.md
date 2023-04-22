@@ -5,16 +5,12 @@ This is a simple RESTful API for a task manager application built with Node.js a
 Getting Started
 To get started with the project, clone the repository and install the dependencies:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/simple-task-manager-api.git
 cd simple-task-manager-api
 npm install
-To start the server, run:
+To start the server, run: node index.js
 
-sql
-Copy code
-npm start
 The server will start on http://localhost:3000.
 
 API Endpoints
