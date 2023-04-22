@@ -11,7 +11,7 @@ cd simple-task-manager-api
 npm install
 To start the server, run: node index.js
 
-The server will start on http://localhost:3000.
+The server will start on http://localhost:5500.
 
 API Endpoints
 The API has the following endpoints:
